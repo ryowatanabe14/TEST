@@ -7,5 +7,3 @@ kitayo^^^^^
 pullreqdasitai
 
 mainnihanneisareta!!!
-
-zdfghjkl;
